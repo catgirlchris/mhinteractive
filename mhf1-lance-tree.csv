@@ -1,0 +1,94 @@
+Lance Icon White Iron Lance	138	N/A	Yellow (Green)	N/AWhite┠┣┠╠┟
+    └ Lance Icon White Iron Lance+	161	N/A	Green (Green)	N/A
+        ┠Lance Icon White Bone Javelin	184	N/A	Green (Green)	N/A
+        |    └ Lance Icon White Bone Javelin+	230	N/A	Green (Green)	N/A
+        |        └ Lance Icon White Spiked Spear	276	N/A	Green (Green)	N/A
+        |            └ Lance Icon Green Dark Lance	368	Paralysis100	Yellow (Green)	N/A
+        |                └ Lance Icon Green Dark Spear	414	Paralysis140	Green (Green)	N/A
+        |                    ┠Lance Icon Light Blue Dark	437	Paralysis140	Green (Blue)	N/A
+        |                    └ Lance Icon Green Shock Lance	345	Paralysis220	Green (Green)	N/A
+        |                        └ Lance Icon Green Trident	299	Paralysis270	Green (Blue)	N/A
+        └ Lance Icon White Knight Lance	184	N/A	Yellow (Green)	N/A
+            └ Lance Icon White Knight Lance+	207	N/A	Green (Green)	N/A
+                └ Lance Icon White Knight Spear	230	N/A	Green (Green)	N/A
+                    └ Lance Icon White Paladin Lance	278	N/A	Green (Green)	N/A
+                        └ Lance Icon White Paladin Lance+	322	N/A	Green (Green)	N/A
+                            └ Lance Icon White Rampart	368	N/A	Green (Green)	+2
+                                ┠Lance Icon White Babel Spear	414	N/A	Green (Blue)	+3
+                                |    ┠Lance Icon Green Valhalla	414	N/A	Blue (White)	N/A
+                                |    └ Lance Icon Pink Growling Wyvern	460	N/A	Green (Blue)	+10
+                                |        └ Lance Icon Light Blue Roaring Wyvern	506	N/A	Blue (White)	+20
+                                └ Lance Icon Green Steel Knight's Pike	322	N/A	Green (Green)	+1
+                                    ┠Lance Icon Green Dragon Knight's Pike	391	N/A	Green (Green)	+2
+                                    |    └ Lance Icon Pink Grayburg Javelin	483	N/A	Green (Blue)	+4
+                                    |        └ Lance Icon Light Blue Dragon Rider Spear	552	N/A	Blue (White)	+4
+                                    └ Lance Icon Green Gunlance Prototype	345	Status Effect-Fireblight MH4 Icon280	Green (Green)	+3
+                                        └ Lance Icon Green Gatling Lance	368	Status Effect-Fireblight MH4 Icon370	Green (Blue)	+3
+                                            └ Lance Icon Light Blue Sanctioned Gunlance	391	Status Effect-Fireblight MH4 Icon340	Blue (White)	+3
+
+Lance Icon White Bone Lance	161	N/A	Yellow (Yellow)	N/A
+    └ Lance Icon White Bone Lance+	184	N/A	Yellow (Green)	N/A
+        ┠Lance Icon White Red Tail	230	Status Effect-Fireblight MH4 Icon180	Green (Green)	N/A
+        |    └ Lance Icon White Hellfire	276	Status Effect-Fireblight MH4 Icon310	Green (Green)	N/A
+        |        └ Lance Icon Green Spear of Prominence	414	Status Effect-Fireblight MH4 Icon310	Green (Blue)	N/A
+        |            ┠Lance Icon Light Blue Blaze Tail	460	Status Effect-Fireblight MH4 Icon320	Green (Blue)	N/A
+        |            |    └ Lance Icon Orange Red Prominence	483	Status Effect-Fireblight MH4 Icon350	Blue (White)	N/A
+        |            └ Lance Icon Light Blue Blue Tail	437	Status Effect-Fireblight MH4 Icon340	Green (Blue)	N/A
+        |                └ Lance Icon Orange Blue Prominence	437	Status Effect-Fireblight MH4 Icon410	Blue (White)	N/A
+        └ Lance Icon White Longhorn	207	N/A	Yellow (Yellow)	N/A
+            └ Lance Icon White Longhorn+	230	N/A	Yellow (Green)	N/A
+                └ Lance Icon White Long Tusk	253	N/A	Green (Green)	N/A
+                    ┠Lance Icon White Crimson Lance	345	Status Effect-Fireblight MH4 Icon190	Green (Green)	N/A
+                    |    ┠Lance Icon Pink Ceramic Blos Lance	414	Status Effect-Waterblight MH4 Icon200	Green (Blue)	N/A
+                    |    |    ┠Lance Icon Green Diablo Horn	437	N/A	Green (Green)	+1
+                    |    |    |    └ Lance Icon Green Diablo Spear	529	N/A	Green (Blue)	+3
+                    |    |    |        ┠Lance Icon Light Blue White Disaster	506	Status Effect-Waterblight MH4 Icon210	Blue (White)	N/A
+                    |    |    |        └ Lance Icon Light Blue Black Tempest	575	N/A	Blue (White)	N/A
+                    |    └ Lance Icon White Crimson War Pike	368	Status Effect-Fireblight MH4 Icon280	Green (Blue)	N/A
+                    └ Lance Icon White Barbarian Tusk	299	N/A	Yellow (Yellow)	N/A
+                        └ Lance Icon White Barbarian Tusk+	345	N/A	Yellow (Yellow)	N/A
+                            └ Lance Icon White Barbaroi Tusk	391	N/A	Green (Green)	N/A
+                                └ Lance Icon White Ogre Tusk	437	N/A	Green (Blue)	N/A
+                                    ┠Lance Icon Green Dragonlance	437	Status Effect-Dragonblight MH4 Icon260	Green (Green)	N/A
+                                    |    └ Lance Icon Pink Black Dragon Spear	483	Status Effect-Dragonblight MH4 Icon270	Green (Blue)	+1
+                                    |        ┠Lance Icon Orange Black Ruiner Lance	506	Status Effect-Dragonblight MH4 Icon400	Blue (White)	+4
+                                    |        └ Lance Icon Orange True BlackDragon Spr	529	Status Effect-Dragonblight MH4 Icon340	Blue (White)	+10
+                                    └ Lance Icon Green Venom Lance	437	Poison120	Green (Green)	N/A
+                                        └ Lance Icon Green Venom Lance+	460	Poison150	Green (Green)	N/A
+                                            └ Lance Icon Green Gravios Spear	506	Poison240	Green (Blue)	+5
+                                                ┠Lance Icon Light Blue Black Gravios Spear	506	Status Effect-Fireblight MH4 Icon230	Blue (White)	+8
+                                                └ Lance Icon Light Blue Gravios Venom Spear	529	Poison270	Blue (White)	+6
+
+
+Lance Icon White Aqua Spear	230	Status Effect-Waterblight MH4 Icon110	Yellow (Green)	N/A
+    └ Lance Icon White Aqua Spear+	253	Status Effect-Waterblight MH4 Icon210	Green (Blue)	N/A
+        └ Lance Icon White Emerald Spear	354	Status Effect-Waterblight MH4 Icon250	Green (Blue)	N/A
+            └ Lance Icon Green Emerald Spear	437	Status Effect-Waterblight MH4 Icon260	Green (Blue)	N/A
+
+Lance Icon White Lullaby Spear	161	Sleep140	Yellow (Green)	N/A
+    └ Lance Icon White Requiem Spear	184	Sleep180	Green (Green)	N/A
+        └ Lance Icon Green Nightmare	207	Sleep230	Green (Blue)	+3
+
+Lance Icon Pink Black Belt Lance	414	Poison200	Green (Green)	+3
+    └ Lance Icon Light Blue Expert Lance	460	Poison320	Green (Blue)	+4
+
+Lance Icon Green Vacuum Striker	138	Status Effect-Waterblight MH4 Icon270	Green (Green)	N/A
+    └ Lance Icon Light Blue Hyper Vacuum	276	Status Effect-Waterblight MH4 Icon340	White (White)	N/A
+
+Lance Icon Pink Incessant Raven	368	N/A	Blue (White)	N/A
+    └ Lance Icon Orange Incessant Wolf	414	N/A	White (White)	N/A
+
+Lance Icon Green Native Spear	184	Status Effect-Thunderblight MH4 Icon340	White (White)	N/A
+
+Lance Icon Pink Thunderspear	299	Status Effect-Thunderblight MH4 Icon270	Green (Green)	N/A
+    └ Lance Icon Light Blue Thunderlance	391	None360	Green (Blue)	N/A
+
+Lance Icon White Rusted Lance	69	N/A	Red (Orange)	N/A
+    └ Lance Icon White Tarnished Lance	115	N/A	Orange (Yellow)	N/A
+        └ Lance Icon Pink Legendary Lance	368	N/A	Yellow (Green)	+4
+            └ Lance Icon Pink Undertaker	437	N/A	Green (Blue)	+5
+
+Lance Icon Light Blue Worn Spear	345	N/A	Orange (Yellow)	N/A
+    └ Lance Icon Light Blue Weathered Spear	391	N/A	Yellow (Green)	N/A
+        └ Lance Icon Orange Antique Lance	437	N/A	Green (Blue)	+4
+            └ Lance Icon Orange Matenro	483	N/A	Blue (White)	+5
